@@ -261,8 +261,8 @@ use-after-free. С помощью аннотаций времени жизни R
 
 ## Ссылки
 
-1. https://www.cse.cuhk.edu.hk/~taoyf/course/comp3506/lec/ram.pdf
+1. <https://www.cse.cuhk.edu.hk/~taoyf/course/comp3506/lec/ram.pdf>
 
-2. https://digital.car.chula.ac.th/cgi/viewcontent.cgi?article=3284&context=chulaetd
+2. <https://digital.car.chula.ac.th/cgi/viewcontent.cgi?article=3284&context=chulaetd>
 
-3. https://en.wikipedia.org/wiki/Memory_safety
+3. <https://en.wikipedia.org/wiki/Memory_safety>
