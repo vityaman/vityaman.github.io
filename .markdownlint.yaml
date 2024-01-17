@@ -1,0 +1,7 @@
+MD013:
+  heading_line_length: 80
+  line_length: 2000
+  code_block_line_length: 80
+  strict: true
+MD007:
+  indent: 4
